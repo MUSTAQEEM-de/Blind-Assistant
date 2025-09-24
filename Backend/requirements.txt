@@ -1,0 +1,9 @@
+ultralytics
+flask
+flask-cors
+opencv-python
+numpy
+vosk
+soundfile
+pyttsx3         # Text-to-Speech engine
+pyaudio         # For microphone input (required by vosk)
